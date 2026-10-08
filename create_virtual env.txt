@@ -1,6 +1,0 @@
-python -m venv .venv
-
-then make new powershell it will activate venv
-        or
-
-.venv\Scripts\Activate.ps1
