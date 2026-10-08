@@ -19,6 +19,6 @@ pillow
 
 
 librosa #voice 
-resemblyzer# match the voice
+resemblyzer #match the voice
 
 # pip install -r requirements.txt
